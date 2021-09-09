@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\bin\Debug\ÖRNEK3.exe.config
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\bin\Debug\ÖRNEK3.exe
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\bin\Debug\ÖRNEK3.pdb
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.Form1.resources
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.Properties.Resources.resources
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.exe
+C:\Users\asus\Desktop\nesne tabanlı örnekler\ÖRNEK3\ÖRNEK3\obj\Debug\ÖRNEK3.pdb
